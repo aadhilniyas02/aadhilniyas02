@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadhilniyas02&label=Profile%20views&color=0e75b6&style=flat" alt="aadhilniyas02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhilniyas02" alt="aadhilniyas02" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/aadhilniyas02" target="blank"><img src="https://img.shields.io/twitter/follow/aadhilniyas02?logo=twitter&style=for-the-badge" alt="aadhilniyas02" /></a> </p>
 
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadhilniyas02&show_icons=true&locale=en" alt="aadhilniyas02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadhilniyas02&" alt="aadhilniyas02" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadhilniyas02" alt="aadhilniyas02" /></a> </p>
