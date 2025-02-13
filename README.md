@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning .NET
 
 - 📫 How to reach me **mohomedaadhil0404@gmail.com**
 
