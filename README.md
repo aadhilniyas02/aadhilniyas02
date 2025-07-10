@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aadhil Niyas</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Personal Portfolio**
-
-- 🌱 I’m currently learning .NET
-
 - 📫 How to reach me **aadhilniyas02@gmail.com**
 
 <br>
